@@ -17,12 +17,12 @@ To use the tool, run the script from the command line, providing the path to the
 
 ### Syntax
 ```bash
-python script_name.py [path_to_file] [extension_to_spoof]
+python fest.py [path_to_file] [extension_to_spoof]
 ```
 
 ### Example
 ```bash
-python script_name.py /path/to/file.txt jpg
+python fest.py /path/to/file.txt jpg
 ```
 
 This command will create a spoofed version of 'file.txt' with a reversed 'jpg' extension appended, maintaining the original '.txt' extension.
